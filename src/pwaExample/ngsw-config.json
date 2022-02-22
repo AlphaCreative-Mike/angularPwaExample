@@ -8,8 +8,8 @@
         "https://maps.googleapis.com/**"
       ],
       "cacheConfig": {
-        "maxSize": 0,
-        "maxAge": "0u",
+        "maxSize": 1,
+        "maxAge": "1u",
         "strategy": "freshness"
       }
     }
